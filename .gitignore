@@ -1,0 +1,6 @@
+data/*.csv
+data/resultado_pico_uber/
+spark-warehouse/
+derby.log
+metastore_db/
+.ipynb_checkpoints/
